@@ -1,5 +1,9 @@
 # Li-ion-Battery-data
-Analysis and Visualization of Li-ion aging battery data using by Python programming.
+This is a kind of Data analysis python project I have done with my friend, and succedded getting usefull data outputs and visualization. 
 
-Created with a friend to do some major data analyis of bulky csv data.
-It was really a high risk data with particular librabies but managable with appropriate methods.
+Here mainly contents are : 
+
+Pandas
+Csv
+MatplotLib
+OpenpyXl
